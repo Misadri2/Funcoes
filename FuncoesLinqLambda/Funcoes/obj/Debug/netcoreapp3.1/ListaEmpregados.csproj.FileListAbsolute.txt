@@ -1,0 +1,14 @@
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.exe
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.deps.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.runtimeconfig.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\bin\Debug\netcoreapp3.1\ListaEmpregados.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.csproj.AssemblyReference.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Listas\ListaEmpregados\ListaEmpregados\obj\Debug\netcoreapp3.1\ListaEmpregados.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.AssemblyReference.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Funcoes\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache
